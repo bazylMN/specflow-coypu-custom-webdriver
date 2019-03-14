@@ -1,0 +1,9 @@
+.vs/
+TestResults
+NUnitReports
+NUnitTestResult
+TestReportSpecFlow
+packages
+bin
+obj
+*.exe
