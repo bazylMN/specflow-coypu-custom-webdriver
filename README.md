@@ -52,7 +52,7 @@
 * nunit3-console specflow-coypu-custom-webdriver\bin\Debug\specflow-coypu-custom-webdriver.dll --params:BROWSER=CHROME --work=NUnitTestResult --out=NUnitTestResult.txt --result=NUnitTestResult.xml
 
 ##### To run SpecFlow tests with NUnit.ConsoleRunner and with firefox, type:
-* nunit3-console specflow-coypu\bin\Debug\specflow-coypu-custom-webdriver.dll --params:BROWSER=FIREFOX --work=NUnitTestResult --out=NUnitTestResult.txt --result=NUnitTestResult.xml
+* nunit3-console specflow-coypu-custom-webdriver\bin\Debug\specflow-coypu-custom-webdriver.dll --params:BROWSER=FIREFOX --work=NUnitTestResult --out=NUnitTestResult.txt --result=NUnitTestResult.xml
 
 ##### To run SpecFlow tests with NUnit.ConsoleRunner and with internet explorer, type:
 * nunit3-console specflow-coypu-custom-webdriver\bin\Debug\specflow-coypu-custom-webdriver.dll --params:BROWSER=INTERNETEXPLORER --work=NUnitTestResult --out=NUnitTestResult.txt --result=NUnitTestResult.xml
